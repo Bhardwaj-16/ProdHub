@@ -1,6 +1,5 @@
 import { useMemo, useState } from 'react';
 import { useStore } from '../store';
-import { Commit } from '../types';
 
 const HEATMAP_COLORS = [
   '#161b22', // 0 min
